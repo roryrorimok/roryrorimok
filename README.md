@@ -25,7 +25,7 @@
 </p>
 <br>
 <p align="center">
-<img src="https://i.imgur.com/q4AN64Z.gif"/> Feel free to leave things on my Strawpage or Atabook, or check out my Twitter!
+<img src="https://i.imgur.com/q4AN64Z.gif"/> Feel free to leave things on my Strawpage or Atabook, or check out my Twitter and other links!
 </p>
 <br>
 <p align="center">
@@ -33,7 +33,10 @@
 </p>
 <br>
 <p align="center">
-<a href="https://mokroryrori.straw.page" target="content">𝚂𝚃𝚁𝙰𝚆𝙿𝙰𝙶𝙴</a> | <a href="https://rorithm.atabook.org" target="content">𝙰𝚃𝙰𝙱𝙾𝙾𝙺</a> | <a href="https://twitter.com/roryroriirae" target="content">𝚃𝚆𝙸𝚃𝚃𝙴𝚁</a> | <a href="https://toyhou.se/RORITHM" target="content">𝚃𝙾𝚈𝙷𝙾𝚄𝚂𝙴</a>
+<a href="https://mokroryrori.straw.page" target="content">𝚂𝚃𝚁𝙰𝚆𝙿𝙰𝙶𝙴</a> | <a href="https://rorithm.atabook.org" target="content">𝙰𝚃𝙰𝙱𝙾𝙾𝙺</a> | <a href="https://twitter.com/roryroriirae" target="content">𝚃𝚆𝙸𝚃𝚃𝙴𝚁</a>
+</p>
+<p align="center">
+<a href="https://toyhou.se/RORITHM" target="content">𝚃𝙾𝚈𝙷𝙾𝚄𝚂𝙴</a> | <a href="https://archiveofourown.org/users/ohbataka" target="content">𝙰𝚁𝙲𝙷𝙸𝚅𝙴 𝙾𝙵 𝙾𝚄𝚁 𝙾𝚆𝙽</a>
 </p>
 <br>
 <p align="center">
